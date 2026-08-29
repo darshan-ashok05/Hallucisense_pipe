@@ -1,0 +1,7 @@
+hallucisense_env/Scripts/
+hallucisense_env/Lib/
+hallucisense_env/Include/
+hallucisense_env/pyvenv.cfg
+hallucisense_env/__pycache__/
+hallucisense_frontend/node_modules/
+hallucisense_frontend/dist/
